@@ -1,0 +1,37 @@
+// Copyright (c) 2016 VMware, Inc. All Rights Reserved.
+// This software is released under MIT license.
+// The full license information can be found in LICENSE in the root directory of this project.
+
+
+/* .signe-container {} // moved to styles.css  */
+
+.radius{
+  border-radius: 3px;
+}
+
+.signe-form{
+  padding: 2px;
+}
+.signe-column-signum {
+  width: 100px;
+}
+.signe-column-shelfnumber {
+  width: 100px;
+}
+.signe-column-floor {
+  width: 70px;
+  min-width: 70px;
+}
+.signe-column-collectioncode {
+  width: 70px;
+  min-width: 70px;
+}
+.signe-column-description {
+  width: 250px;
+}
+.signe-column-Muokkaa {
+  width: 50px;
+}
+.signe-column-Intra {
+  width: 50px;
+}
