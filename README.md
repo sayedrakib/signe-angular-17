@@ -1,15 +1,12 @@
-# Signe Project using Angular4, clarity-seed and clarity design datagrid
+# Signe App for searching the shelf location of an item
+ Angular4, clarity-seed and clarity design datagrid
 
 -- -- -- -- -- --
-- install the project's dependencies
-npm install
+- npm install
 
-- starts the application in dev mode and watches your files for livereload
-ng serve
+- ng serve
 
-- dev build
-ng build
+- ng build
 
-- prod build
-ng build --prod
+- ng build --prod
 
